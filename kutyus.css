@@ -1,0 +1,17 @@
+body {
+    background-color: sandybrown;
+    color: brown;
+}
+
+img {
+    height: 200px;
+}
+
+table, td, th {
+    border: 2px solid #362dac;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+}
